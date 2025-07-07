@@ -17,7 +17,7 @@ The app uses the [OpenWeatherMap API](https://openweathermap.org/api) to fetch l
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-widget.git
+   git clone https://github.com/iliakirt/weather-widget.git
 2.Navigate into the project folder:
 cd weather-widget
 
